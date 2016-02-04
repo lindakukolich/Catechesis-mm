@@ -17,12 +17,13 @@ The Presentations:
 
 * [True Vine I](TrueVineI) - John 15:1-8, focused on fruit and remain
 * [True Vine II](TrueVineII) - John 15:1-8, focused on vinedresser
-* [Synthesis of Found Coin and Found Sheep](FoundCoinSheep) - Luke 15:8-10 and 4-6, focused on joy
-* The Forgiving Father
+* [Synthesis of Found Coin and Found Sheep](FoundCoinSheep) - Luke 15:8-10 and 4-6, usually called the Lost Coin and Lost Sheep, but focused on joy in finding instead of peril of being lost
+* [The Forgiving Father](ForgivingFather) - Luke 15:11-24 - The Prodigal Son, but focused  on the joy of the Father on the son's return
 * The Rite of Reconciliation
 
 Extra Materials
+
 * Looking at my branch
 * Candles
 * Shawls
-* The Rome model
+* [The Rome model](RomeModel) - Sacramental Preparation as practiced in Sofia's Atrium in Rome, starting with work done in the 3-6 Atrium
