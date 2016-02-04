@@ -1,0 +1,9 @@
+_data/authors.yml:  avatar: bio-photo.png
+_includes/_author-bio.html:	<img src="{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
+_includes/_author-bio.html:	<img src="{{ site.url }}/images/{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
+_sass/page.scss:	.bio-photo {
+_sass/page.scss:		.bio-photo,
+_sass/page.scss:	.bio-photo {
+_sass/page.scss:		.bio-photo,
+_site/404.html:	<img src="/images/bio-photo.jpg" class="bio-photo" alt="Linda Kukolich bio photo">
+_site/index.html:	<img src="/images/bio-photo.jpg" class="bio-photo" alt="Linda Kukolich bio photo">
