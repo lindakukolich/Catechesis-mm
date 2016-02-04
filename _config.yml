@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Linda Kukolich's Atrium Album
 locale:           en_US
 url:
 
@@ -34,6 +34,9 @@ page_ext: md
 # Found in _templates/
 post_layout: post
 page_layout: page
+home_layout: home
+post-index_layout : post-index
+
 
 # Format titles with titlecase?
 titlecase: true
@@ -41,21 +44,21 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
+  name: Linda Kukolich
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Software Engineer, Teacher, and Crafter."
   email:
   disqus-shortname:
-  twitter: #username
+  twitter: MrskukeL
   facebook: #username
   google:
-    plus: #username
+    plus: lkukolich
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: lindakukolich
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
