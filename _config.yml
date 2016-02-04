@@ -45,14 +45,14 @@ titlecase: true
 # Site owner
 owner:
   name: Linda Kukolich
-  avatar: bio-photo.jpg
+  avatar: bio-photo.png
   bio: "Software Engineer, Teacher, and Crafter."
   email:
   disqus-shortname:
   twitter: MrskukeL
   facebook: #username
   google:
-    plus: lkukolich
+    plus: #username
     analytics:
     verify:
     ad-client:
