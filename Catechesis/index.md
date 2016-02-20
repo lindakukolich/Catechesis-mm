@@ -19,7 +19,7 @@ Collections of Album Pages:
   * Meditations on Reconciliation used in preparation for a Solemn celebration of the Eucharist. For some congregations, this is a necessary part of preparation to receive communion. For others, it is an opportunity to deepen our understanding of confession and forgiveness.
 * The Good Shepherd Atrium - Level I - Ages 3-6
 * The True Vine Atrium - Level II - Ages 6-9
-* Level III - Ages 9-12
+* [Level III - Ages 9-12](Atrium3)
 
 * For more information about Catechesis in the United States, visit the [National Association of the Catechesis of the Good Shepherd](http://www.cgsusa.org)
 * For more information about Catechesis training in New England, visit the [Massachusetts Guild](http://www.cgsma.org/).
