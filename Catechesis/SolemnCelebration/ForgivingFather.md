@@ -15,7 +15,7 @@ image:
 
 **Title: The Forgiving Father**
 
-**Pre-requisites:** Found Coin, Found Sheep. As part of sacramental preparation, [Synthesis of Found Coin and Found Sheep](FoundCoinSheep)
+**Pre-requisites:** Found Coin, Found Sheep. As part of sacramental preparation, [Synthesis of Found Coin and Found Sheep](../FoundCoinSheep)
 
 **Age:** 6 plus, 2nd year
 

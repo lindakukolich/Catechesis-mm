@@ -13,7 +13,7 @@ As members of the Episcopal Diocese of Massachusetts, we acknowledge that all ar
 
 This is a series of five presentations, often given during Lent, culminating in a special service including the Individual Rite of Reconciliation and a celebration of the Eucharist. While it is recommended that we give this series starting with seven year old children, we have found that their understanding is deeper when we wait till they are nine or ten.
 
-The Presentations:
+## The Presentations:
 
 * [True Vine I](TrueVineI) - John 15:1-8, focused on fruit and remain
 * [True Vine II](TrueVineII) - John 15:1-8, focused on vinedresser
@@ -21,9 +21,17 @@ The Presentations:
 * [The Forgiving Father](ForgivingFather) - Luke 15:11-24 - The Prodigal Son, but focused  on the joy of the Father on the son's return
 * The Rite of Reconciliation
 
-Extra Materials
+## Extra Materials
 
 * Looking at my branch
 * Candles
 * Shawls
 * [The Rome model](RomeModel) - Sacramental Preparation as practiced in Sofia's Atrium in Rome, starting with work done in the 3-6 Atrium
+
+## Pre-requisites
+
+It is helpful to set the stage for the Solemn Celebration to do these presentations in the Fall, assuming the Solemn Celebration meditations will be given in the late winter, that is during Lent.
+
+* [Creation Typology](../Atrium3/Typology/Creation)
+* [Sin Typology](../Atriuim3/Typology/Sin)
+* [Maxims](../Atruim3/Typology/Maxims)
