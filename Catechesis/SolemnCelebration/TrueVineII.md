@@ -12,17 +12,21 @@ image:
 *The Catechesis of the Good Shepherd*					*Trainer:  Joyce Scherer-Hoock*
 *Formation Course, Level II 2008-09, Lincoln, MA*
 
-**Subject:**		Sacramental Preparation / Reconciliation
+## Subject:
 
-**Title:**			True Vine II
+Sacramental Preparation / Reconciliation
 
-**Age:**			7+
+## Title: True Vine II
 
-**Liturgical Time:**	Non-specific, but Lent is best: for communion enrichment or preparation
+## Age: 7+
 
-**Pre-requisites:**	True Vine I
+## Liturgical Time:
+Non-specific, but Lent is best: for communion enrichment or preparation
 
-**Sources:**
+## Pre-requisites:
+[True Vine I](../TrueVineI)
+
+## Sources:
 
 * Class notes, Level II Formation course, Lincoln MA, January 10, 2009
 * John 15:1-8; Isaiah 5:1-7 and 27:2-7; Ezekiel 15 and 17:5-10;
@@ -31,7 +35,7 @@ image:
 * L.L p.p. 111-121
 * C.C.C. Paragraphs 1921-1498
 
-**Doctrinal Content:**
+## Doctrinal Content:
 
 * Jesus (the vine) invites us into a relationship with God (the vinedresser); this relationship is often blocked by sin.
 * Our relationship with God is a living, growing relationship.  To remain healthy, we must maintain close contact.
@@ -39,13 +43,13 @@ image:
 * The sacrament of reconciliation restores our right relationship with God.
 * When we receive the Eucharist we receive the renewing strength of Christ, empowering us to bear fruit, bringing glory to God.
 
-**Direct Aim:**
+## Direct Aim:
 
 * To nurture in the child the desire to have a relationship with God.
 * To announce that our relationship with God can be damaged by sin.
 * To explore ways to remove sin (reconciliation).
 
-**Indirect Aims:**
+## Indirect Aims:
 
 * To define and identify sin.
 * To realize that all we need for our relationship with God is the desire to be connected with Him.
@@ -55,7 +59,7 @@ image:
 * To encourage self-examination and promote moral formation.
 * To prepare for First Communion or the solemn celebration of Eucharist; to encourage greater participation in the Eucharist.
 
-**Materials:**
+## Materials:
 
 * Bible and/or Scripture booklet
 * Potted vine
@@ -64,7 +68,7 @@ image:
 * Optional instead of candle – candelabra with place for candles for each meditation (four).
 * Optional picture of grape vine
 
-**Presentation:**
+## Presentation:
 
 1.  Gather the children and recall True Vine I.
   	* Last week we heard the words of Jesus “I am the vine, you are the branches”.
@@ -94,7 +98,7 @@ image:
 4. Invite songs and prayer
 	* Sing “I am the Vine”
 
-Work of the Child:
+## Work of the Child:
 
 * Create original art.
 * Copy the Scripture
@@ -102,4 +106,4 @@ Work of the Child:
 * Leaf polishing
 * Using stencil, print a vine with leaves.
 
-Observations and Reflections:
+## Observations and Reflections:

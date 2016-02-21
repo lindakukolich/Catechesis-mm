@@ -9,26 +9,29 @@ image:
   feature:
 ---
 
-**SUBJECT:** Parables of Prayer
+## SUBJECT: Parables of Prayer
 
-**TITLE:** Found Coin/Found Sheep Communion Meditation III
+## TITLE
 
-**AGE:** 7 plus
+Found Coin/Found Sheep Communion Meditation III
 
-**LITURGICAL TIME:** nonspecific
+## AGE: 7 plus
 
-**SOURCES:** Luke 15: 8 -10, Luke 15: 4 -6
+## LITURGICAL TIME: nonspecific
 
-**MATERIALS:**
+## SOURCES
+* Luke 15: 8 -10
+* Luke 15: 4 -6
 
-* When first introduced as part of Communion prep, done with the vine as a meditation without material other than booklet, vine and candles;
-* Children follow mediation by working with: 2 D figures of woman looking for coin; 9 sequins on string or wire, 1 lose “coin”, figures of rejoicing friends, lamp, table, background, candle, matches, snuffer, blue Scripture booklet of Luke 15. Can stand alone as a Parable.
+## DOCTRINAL POINT
 
-**DOCTRINAL POINT:** God actively seeks and saves lost people.
+* God actively seeks and saves lost people.
 
-**DIRECT AIM:** To announce God’s free and unmerited grace, which seeks human redemption diligently.
+## DIRECT AIM
 
-**INDIRECT AIMS:**
+* To announce God’s free and unmerited grace, which seeks human redemption diligently.
+
+## INDIRECT AIMS
 
 * Connect God’s searching love to forgiveness
 *	To connect God’s seeking love to Eucharistic celebration
@@ -37,7 +40,24 @@ image:
 *	To experience God as a searching maternal figure
 *	Introduce the gestures used in reconciliation
 
-**PRESENTATION:** - Parable Version
+## MATERIALS
+
+* Level II, Parable version of Found Coin
+  * 2 D figures of woman looking for coin
+  * 9 sequins on string or wire, 1 lose “coin”
+  * figures of rejoicing friends
+  * lamp
+  * table
+  * background (house with room and courtyard)
+  * candle, matches, snuffer
+  * blue Scripture booklet of Luke 15: 8-10
+* Sacramental Preparation Version
+  * Table with beautiful vine on it.
+  * Candles to represent the number of meditation being done (this is the 3rd of 4 or 5)
+  * Booklets for Found Coin and Found Sheep
+  * OR, a Bible for each child
+
+## PRESENTATION - Parable Version
 
 * Gather the children.
 * Introduction: Today we are going to think about one of the many stories Jesus told. Jesus told many stories. Do you recall what kind of stories they were? *Called parables. Recall some of the other parables.*
@@ -46,23 +66,16 @@ image:
 *	Let’s see what happens in this story.
 *	***Light Candle & Read Scripture***
 * Wonder
-	  * What happened in this parable?
-	  * I wonder, “Does everything get lost in the same way?”
-    * Did the coin decide to be lost?
-	  * How did the woman look for the coin? Unpack the word “diligent” from Scripture
-    * What did the woman do when she found the coin?
-    * Why?
+	* What happened in this parable?
+	* I wonder, “Does everything get lost in the same way?”
+  * Did the coin decide to be lost?
+	* How did the woman look for the coin? Unpack the word “diligent” from Scripture
+  * What did the woman do when she found the coin?
+  * Why?
 
-**Found Coin as a communion Preparation Mediation:**
+## Found Coin as a Communion Preparation Mediation
 
-**Materials:**
-
-* Table with beautiful vine on it.
-* Candles to represent the number of meditation being done
-* Booklets for Found Coin and Found Sheep
-* Matches and snuffer
-
-**Presentation**
+## Presentation
 
 * Introduction
   *	Recall True Vine
@@ -103,9 +116,13 @@ image:
 * Think for a moment about the beautiful joyous when we celebrate reconciliation. Think of other names we could give this gift. Celebration of forgiveness, joy, 2nd chance
 Pause and Enjoy
 
-Invite response in Prayer or Song: Amazing Grace, Father I adore you. Lead me Lord.
+## Invite response in Prayer or Song
 
-Work of the Child: when done first as a communion meditation the children are shown the found coin material when they return to the atrium
-Work with materials as in presentation, copy Scripture booklet; original art
+Amazing Grace, Father I adore you. Lead me Lord.
 
-OBSERVATIONS & REFLECTIONS:
+## Work of the Child
+
+* When done first as a communion meditation the children are shown the found coin material when they return to the atrium, so they can work with the figures.
+* Work with materials as in presentation, copy Scripture booklet; original art
+
+## OBSERVATIONS & REFLECTIONS:
