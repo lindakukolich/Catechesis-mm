@@ -1,48 +1,39 @@
 ---
 layout: page
-title:
+title: The Forgiving Father
 date: 2016-02-04T15:09:33-05:00
 modified:
-excerpt:
+excerpt: ""
 tags: [MoralParables, SolemnCelebration, SacramentalPreparation]
 image:
   feature:
 ---
 
-## The Forgiving Father
+## Subject: Moral Parables, Sacramental preparation
 
-**Subject:** Moral Parables, Sacramental preparation
+## Pre-requisites:
+[Found Coin](../../Atrium2/Parables/FoundCoin), [Found Sheep](../../Atrium2/Parables/FoundSheep). As part of sacramental preparation, [Synthesis of Found Coin and Found Sheep](../FoundCoinSheep).
 
-**Title: The Forgiving Father**
+## Age: 6 plus, 2nd year
 
-**Pre-requisites:** Found Coin, Found Sheep. As part of sacramental preparation, [Synthesis of Found Coin and Found Sheep](../FoundCoinSheep)
+## Liturgical Time: Solemn Celebration preparation, Lent, any time
 
-**Age:** 6 plus, 2nd year
-
-**Liturgical Time:** Solemn Celebration preparation, Lent, any time
-
-**Sources:**
+## Sources:
 
 * Luke 15:11-24
 * Class notes from Level II Formation, January 7, 2012
 * Materials Manual
 * "The Waiting Father" Helmut Thieklicke
 
-**Materials:**
-
-* small table
-* light blue scripture booklets including three from previous meditations
-* candle, matches, snuffer
-* as part of sacramental preparation, candelabra with enough spots for all meditations
-
-**Doctrinal Point:**
+## Doctrinal Point:
 
 * God is constantly seeking to be reconciled with those who are separated from hi, actively searching, waiting, and hoping for our return while still honoring our freedom.
 * This love and forgiveness is not earned, but is inherent to our relationship with God as our Father.
 
-**Direct Aim:** To proclaim God's readiness and desire to be reconciled with the whole world.
+## Direct Aim:
+To proclaim God's readiness and desire to be reconciled with the whole world.
 
-**Indirect Aim:**
+## Indirect Aim:
 
 * To encourage participation in the Sacrament of Reconciliation.
 * To revisit and synthesize the parables of the Found Coin and the Found Sheep, emphasizing the joy in finding.
@@ -50,10 +41,17 @@ image:
 * To deepen the child's appreciation of general confession in the liturgy.
 * To ponder the communal aspect of the celebration when a relationship is restored.
 
-**Presentation:**
+## Materials:
 
-* Preparation
-  * The Scripture booklets for this meditation and from the previous meditations are placed on the table with the candles. Gather the children.
+* small table, with
+  * tablecloth
+  * Forgiving Father booklet
+  * Booklets from previous meditations
+  * Candles, one per meditation in the series (4 or 5)
+* matches, snuffer
+
+## Presentation:
+
 * **Introduction**
   * During these past weeks we have looked at some new ways of thinking of Jesus. What might they be? *True vine. Shepherd finding the sheep. Woman finding the coin.*
   * Let’s take a few minutes to **recall** our thoughts on Reconciliation & Eucharist.
@@ -70,7 +68,7 @@ image:
   * Do you know what a **famine** is?
   * What does the son have left? *Nothing- he is caring for the pigs and doesn’t even get to eat their food.*
   * What was the difference between being a servant and a son? *Stronger bond between a father and a son.*
-  * Did the son’s action strain this bond? * Was he in any shape to ask for more? *No, he had shamed himself.*
+  * Did the son’s action strain this bond? Was he in any shape to ask for more? *No, he had shamed himself.*
   * But he made a **plan to go back**.  What attitude does he have now? *His plan was to return as a servant. He came back with a plea to be a servant outlined.*
   * But then what happened? *Something surprising. His father could have been mad at him. Everybody could have forgotten about him. But instead his Father ran to greet him.*
   * Would you normally notice someone a long way off? *No. Not unless you were looking for them.*
@@ -98,8 +96,10 @@ image:
   * I wonder what absolve might mean? Might it mean free from?
   * When we are free from our blocks, we are free for what? *Rejoicing. Bearing fruit. Life with God and others.*
 
-**Invite response in prayer or song:** *We Are Marching in the Light of God.*
+## Invite response in prayer or song:
 
-**WORK OF THE CHILD:**
+*We Are Marching in the Light of God.*
 
-**OBSERVATIONS & REFLECTIONS:**
+## WORK OF THE CHILD:
+
+## OBSERVATIONS & REFLECTIONS:
