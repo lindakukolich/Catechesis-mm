@@ -28,7 +28,7 @@ Sections in this Album:
 * Bible
 * Bible Study
 * [Celebrations](Celebrations)
-* Eucharist
+* [Eucharist](Eucharist)
 * Liturgy
 * Moral Parables
 * Other Sacraments

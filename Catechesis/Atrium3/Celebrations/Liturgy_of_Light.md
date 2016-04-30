@@ -135,14 +135,19 @@ image:
     * Revelations 22:5 *And there will be no more night; they need no light of lamp or sun, for the Lord God will be their light, and they will reign forever and ever.*
     * Psalm 118: 27a *The LORD is God and has given us LIGHT.*
     * Rev. 21: 23-24 *And the city has no need of sun or moon to shine on it, for the glory of God is its light, and its lamp is the Lamb. The nations will walk by its light, and the Kings of the earth will bring their glory into it.*
+    * Isaiah 60:1 *Arise, shine, for your light has come,
+       and the glory of the LORD rises upon you.*
+    * Ephesians 5: 8-10 *For you were once darkness, but now you are light in the Lord. Live as children of light (for the fruit of the light consists in all goodness, righteousness and truth) and find out what pleases the Lord.*
+    * John 1: 4-5 *In him was life, and that life was the light of all people. The light shines in the darkness, and the darkness has not overcome it.*
+    * I John 1: 5 *This is the message we have heard from him and declare to you: God is light; in him there is no darkness at all. *
+    * Isaiah 60: 19 *The sun will no more be your light by day,
+       nor will the brightness of the moon shine on you,
+       for the LORD will be your everlasting light,
+       and your God will be your glory.*
+    * It would be appropriate to sing a hymn before proclaiming the gospel, as we do in church
     * Mark 16: 1-7 *When the Sabbath was over, Mary Magdelene and Mary the mother of James and Salome bought spices so that they might go and anoint Jesus' body. And very early on the first day of the week, when the sun has risen they went to the tomb. They had been saying to one another, "Who will roll away the stone for us, from the entrance to the tomb?" When they looked up they saw that the stone, which was very large, had already been rolled back. As they entered the tomb, they saw a young man, dressed in a white robe, sitting on the right side and they were alarmed. But he said to them, "Do not be alarmed; you are looking for Jesus of Nazareth, who was crucified. He has been raised; he is not here. Look, there is the place they laid him. But go tell his disciples and Peter that he is going ahead of you to Galilee; there you will see him, just as he told you."*
-    * Other Gospel resurrection accounts (Mt 28: 1-7)
-      * It would be appropriate to sing a hymn before proclaiming the gospel, as we do in church
-    * Isaiah 60:10
-    * Ephesians 5: 8-10
-    * John 1: 4-5
-    * I John 1: 4-5, or just I John 1: 5
-    * Isaiah 60: 19
+    * Mt 28: 1-7   *After the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to look at the tomb. There was a violent earthquake, for an angel of the Lord came down from heaven and, going to the tomb, rolled back the stone and sat on it.  His appearance was like lightning, and his clothes were white as snow.  The guards were so afraid of him that they shook and became like dead men. The angel said to the women, "Do not be afraid, for I know that you are looking for Jesus, who was crucified.  He is not here; he has risen, just as he said. Come and see the place where he lay. Then go quickly and tell his disciples: 'He has risen from the dead and is going ahead of you into Galilee. There you will see him.' Now I have told you."*
+
 
 * **Silence** - a period of silence follows
 
@@ -188,13 +193,14 @@ This album page is based on two previous pages. And two more "order of worship" 
   * song
   * closing prayer
   * extinguish candles, starting with paschal candle with a reminder that the light of christ burns within us, it will never go out
-* Joyce Scherer-Hoock, Topsfield 2010 (MISSING PAGE 2!)
+* Joyce Scherer-Hoock, Topsfield 2010
   * Pre-requisites: speak of the great feast that is coming, how to handle a candle, learn easter songs
   * Prepare the service (select readings and songs) and prepare the room (chairs, table to gather the light) This is the work of the children, and of the older children who are leaders for this service
   * Prepare the candle, adding the numbers for the current year
   * gather in a darkened place and prepare for procession
+  * Bless the candle, tracing signs. Add nails
   * process, singing The Light of Christ, Thanks be to God
-  * ????
+  * Exsultet - Rejoice parts and at least one This is the night part
   * Proclaim scripture
   * Resurrection account
   * Share the light
