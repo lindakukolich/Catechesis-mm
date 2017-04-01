@@ -16,4 +16,4 @@ So. This directory will hold the album pages for the Level I and II celebrations
 * [Liturgy of Light](Liturgy_of_Light)
 * Pentecost
 * [Solemn Celebration of the Eucharist](../../SolemnCelebration)
-* Seder
+* [Seder](Seder)
