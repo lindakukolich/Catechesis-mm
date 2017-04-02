@@ -242,3 +242,76 @@ Blessed are You, L-rd our G‑d, King of the universe for the vine and the fruit
 We are finished our Seder, and we are looking forward to a time when people from the whole world can all enjoy this meal together.
 
 **Next year in Jerusalem!**
+
+### Sign up sheet
+
+<table border="1">
+<tr>
+  <th>Family</th>
+  <th>Item</th>
+</tr>
+<tr>
+  <td> Linda </td>
+  <td> Seder Plate </td>
+</tr>
+<tr>
+  <td>  </td>
+  <td> Wine Glasses/Goblets<br> One for each of person</td>
+</tr>
+<tr>
+  <td>  </td>
+  <td> Basin and Ewer to wash hands </td>
+</tr>
+<tr>
+  <td>  </td>
+  <td> Towels to dry hands </td>
+</tr>
+<tr>
+  <td> Linda </td>
+  <td> Haggadahs </td>
+</tr>
+<tr>
+  <td>  </td>
+  <td> 3 cloth napkins </td>
+</tr>
+<tr>
+  <td>  </td>
+  <td> Matzah, a couple boxes.<br>We need at least two per person </td>
+</tr>
+<tr>
+  <td>  </td>
+  <td> Grape Juice<br>Lots. We will drink 4 cups each </td>
+</tr>
+<tr>
+  <td>  </td>
+  <td> Another thing to drink </td>
+</tr>
+<tr>
+  <td>  </td>
+  <td> Boiled eggs <br> one per person </td>
+</tr>
+<tr>
+  <td>  </td>
+  <td> salt water <br> plus small bowls so we can dip into it </td>
+</tr>
+<tr>
+  <td>  </td>
+  <td> lettuce </td>
+</tr>
+<tr>
+  <td>  </td>
+  <td> horseradish </td>
+</tr>
+<tr>
+  <td> Linda </td>
+  <td> A bone from roasted meat </td>
+</tr>
+<tr>
+  <td>  </td>
+  <td> Charoset <br> a mix of nuts and fruit and wine <br> ask the internet for recipes </td>
+</tr>
+<tr>
+  <td>  </td>
+  <td> A raw vegetable, not lettuce <br> potato, onion, radish, celery, or parsley are common </td>
+</tr>
+</table>
